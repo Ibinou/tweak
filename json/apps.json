@@ -1,0 +1,68 @@
+{
+  "name": "Tweakstore Repo",
+  "identifier": "com.tweakstore.repo",
+  "sourceURL": "https://tweakstore.github.io/json/apps.json",
+  "apps": [
+
+  {
+    "name": "Appcake",
+    "bundleIdentifier": "com.tweakstore.appcake",
+    "developerName": "iPhone cake",
+    "version": "7.1.4",
+    "versionDate": "2020-03-17T14:00:00-07:00",
+    "versionDescription": "Bug Fixes",
+    "downloadURL": "https://tweakstore.github.io/assets/files/ipas/appcake.ipa",
+    "localizedDescription": "Appcake is a free tweaked and paid ios app resigner and downloader",
+    "iconURL": "https://tweakstore.github.io/assets/images/appcake.png",
+    "tintColor": "0096aa",
+    "size": 4791823,
+    "screenshotURLs": [
+      "https://user-images.githubusercontent.com/705880/78942028-acf54300-7a6d-11ea-821c-5bb7a9b3e73a.PNG",
+      "https://user-images.githubusercontent.com/705880/78942222-0fe6da00-7a6e-11ea-9f2a-dda16157583c.PNG",
+      "https://user-images.githubusercontent.com/705880/65605577-332cba80-df5e-11e9-9f00-b369ce974f71.PNG"
+    ],
+  },
+
+  {
+    "name": "Spotify++",
+    "bundleIdentifier": "com.tweakstore.spotify",
+    "developerName": "Julioverne",
+    "version": "8.6.22",
+    "versionDate": "2020-03-17T14:00:00-07:00",
+    "versionDescription": "Bug Fixes",
+    "downloadURL": "https://tweakstore.github.io/assets/files/ipas/spotify.ipa",
+    "localizedDescription": "Appcake is a free tweaked and paid ios app resigner and downloader",
+    "iconURL": "https://tweakstore.github.io/assets/images/spotify.png",
+    "tintColor": "228B22",
+    "size": 4791823,
+    "screenshotURLs": [
+      "https://user-images.githubusercontent.com/705880/78942028-acf54300-7a6d-11ea-821c-5bb7a9b3e73a.PNG",
+      "https://user-images.githubusercontent.com/705880/78942222-0fe6da00-7a6e-11ea-9f2a-dda16157583c.PNG",
+      "https://user-images.githubusercontent.com/705880/65605577-332cba80-df5e-11e9-9f00-b369ce974f71.PNG"
+    ],
+  },
+
+    {
+      "name": "ZiniTevi",
+      "bundleIdentifier": "com.tweakstore.zinitevi",
+      "developerName": "Trung Duc Vu",
+      "version": "1.4.1",
+      "versionDate": "2021-03-17T14:00:00-07:00",
+      "versionDescription": "Bug Fixes & New Servers For Streaming",
+      "downloadURL": "https://tweakstore.github.io/assets/files/ipas/zinitevi.ipa",
+      "localizedDescription": "ZiniTevi is a free movie streaming & downloading application",
+      "iconURL": "https://tweakstore.github.io/assets/images/zinitevi.jpg",
+      "tintColor": "424242",
+      "size": 4791823,
+      "screenshotURLs": [
+        "https://user-images.githubusercontent.com/705880/78942028-acf54300-7a6d-11ea-821c-5bb7a9b3e73a.PNG",
+        "https://user-images.githubusercontent.com/705880/78942222-0fe6da00-7a6e-11ea-9f2a-dda16157583c.PNG",
+        "https://user-images.githubusercontent.com/705880/65605577-332cba80-df5e-11e9-9f00-b369ce974f71.PNG"
+      ],
+    },
+
+
+  ],
+
+
+}

@@ -1,0 +1,66 @@
+<template>
+  <div class="page" data-name="apps">
+    <div class="navbar">
+      <div class="navbar-bg"></div>
+      <div class="navbar-inner sliding">
+        <div class="title">Apps</div>
+      </div>
+    </div>
+    <div class="page-content">
+
+        <center>
+        <div>
+              <a href="/tweaked-apps/">
+                <div class="list">
+                <img class="list-icon" src="./assets/images/spotify.png">
+                <h1 class="list-name">Tweaked Apps</h1>
+                <p class="list-position"></p>
+            </div>
+              </a>
+
+              <a href="/tweaked-games/">
+                <div class="list">
+                <img class="list-icon" src="./assets/images/amongus.png">
+                <h1 class="list-name">Tweaked Games</h1>
+                <p class="list-position"></p>
+            </div>
+              </a>
+
+              <a href="/jailbreaks/">
+                <div class="list">
+                <img class="list-icon" src="./assets/images/unc0ver.png">
+                <h1 class="list-name">Jailbreaks</h1>
+                <p class="list-position"></p>
+            </div>
+              </a>
+
+              <a href="/emulators/">
+                <div class="list">
+                <img class="list-icon" src="./assets/images/gba4ios.png">
+                <h1 class="list-name">Emulators</h1>
+                <p class="list-position"></p>
+            </div>
+              </a>
+
+              <a href="/tweakstore-apps/">
+                <div class="list">
+                <img class="list-icon" src="./assets/images/pandahelper-vip.png">
+                <h1 class="list-name">Tweakstore Apps</h1>
+                <p class="list-position"></p>
+            </div>
+              </a>
+        </div>
+        </center>
+
+    </div>
+  </div>
+</template>
+<script>
+  return {
+    data: function () {
+      return {
+        products: this.$root.products,
+      };
+    }
+  };
+</script>
